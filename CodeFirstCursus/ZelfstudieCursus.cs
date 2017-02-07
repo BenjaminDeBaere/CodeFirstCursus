@@ -12,5 +12,6 @@ namespace CodeFirstCursus
     public class ZelfstudieCursus: Cursus
     {
         public int AantalDagen { get; set; }
+
     }
 }
